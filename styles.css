@@ -87,4 +87,20 @@ button {
     font-weight: bolder;
 }
 
+.section-02 {
+    height: 400px;
+}
 
+.section-03 {
+    height: 300px;
+    background-color: #E5E7EB;
+}
+
+.section-04 {
+    height: 250px;
+}
+
+.footer {
+    height: 50px;
+    background-color: #1f2937;
+}
