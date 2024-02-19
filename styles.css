@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.header {
+    background-color: #1f2937;
+    display: flex;
+    justify-content: center;
+    height: 50px;
+}
+
+.header .header-cont {
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-basis: 70%;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    list-style: none;
+}
+
+li a {
+    color: #f9faf8;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.header img {
+    font-size: 24px;
+    color: #e5e7eb;
+}
+
