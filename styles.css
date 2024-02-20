@@ -134,6 +134,31 @@ button {
 .section-03 {
   height: 300px;
   background-color: #e5e7eb;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.quote-cont {
+  width: 700px;
+}
+
+.quote {
+  border: 1px solid red;
+  color: #1f2937;
+  font-size: 25px;
+  font-style: italic;
+  font-weight: lighter;
+}
+
+.author {
+  border: 1px solid red;
+  font-size: 20px;
+  font-weight: bolder;
+  font-style: italic;
+  display: flex;
+  justify-content: flex-end;
+  padding: 10px;
 }
 
 .section-04 {
@@ -143,11 +168,4 @@ button {
 .footer {
   height: 50px;
   background-color: #1f2937;
-}
-
-.quote {
-  color: #1f2937;
-  font-size: 36px;
-  font-style: italic;
-  font-weight: lighter;
 }
