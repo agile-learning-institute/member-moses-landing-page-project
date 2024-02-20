@@ -66,13 +66,13 @@ li a,
   flex-direction: column;
   justify-content: space-evenly;
   align-items: flex-start;
-  height: 40vh;
+  height: 60%;
   min-width: 350px;
   padding-right: 10px;
 }
 
 .s01-2 {
-  height: 40vh;
+  height: 60%;
   min-width: 400px;
   max-width: 500px;
   background-color: #6d747d;
