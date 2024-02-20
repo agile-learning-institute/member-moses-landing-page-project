@@ -1,11 +1,11 @@
-# Landing Page Project
+# ✨ Landing Page Project
 
-This is part of the Odin Project Curriculum to show basic HTML, CSS and Flexbox.
+This is part of the Odin Project Curriculum to show basic HTML and CSS with Flexbox.
 
-# Main Concept Showcased
+### Main Concept Showcased 👨🏽‍💻
 
 - Flexbox
 
-# Check it out
+### 🔗 Want to Check it out?
 
-- Currently still Work in Progress, but find link here when complete.
+- [Tadaaaa!🚀 Just go to this link🔗](https://wodpachua.github.io/landing-page-project/){:target="_blank"}
