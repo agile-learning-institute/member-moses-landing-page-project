@@ -8,4 +8,4 @@ This is part of the Odin Project Curriculum to show basic HTML and CSS with Flex
 
 ### 🔗 Want to Check it out?
 
-- [Tadaaaa!🚀 Just go to this link🔗](https://wodpachua.github.io/landing-page-project/){:target="_blank"}
+- [Tadaaaa!🚀 Just go to this link🔗](https://wodpachua.github.io/landing-page-project/)
